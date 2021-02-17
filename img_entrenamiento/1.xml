@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>WhatsApp Image 2021-02-15 at 12.20.34 PM (1).jpeg</filename>
+	<path>D:\Downloads\deteccion_objetos-master\deteccion_objetos-master\images\WhatsApp Image 2021-02-15 at 12.20.34 PM (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aislador</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>493</ymin>
+			<xmax>673</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>
